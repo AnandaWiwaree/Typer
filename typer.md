@@ -1,6 +1,7 @@
 # Typer
 
-A tower defense like typing game. Characters can be case sensitive or insensitive. Wrong characters decrease the score. Click button to change case sensitivity.Instructions for playing: Press the keyboard to follow the floating letters. Try not to let the letters get close to the center
+A tower defense like typing game. Characters can be case sensitive or insensitive. Wrong characters decrease the score. Click button to change case sensitivity.Instructions for playing: 
+Press the keyboard to follow the floating letters. Try not to let the letters get close to the center
 
 The game currently only has English.
 
