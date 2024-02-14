@@ -7,4 +7,4 @@ Press the keyboard to follow the floating letters. Try not to let the letters ge
 
 [![button](play.png)](typer.html)
 
-[![button](key.png)]
+[![button](key.jpg)]
